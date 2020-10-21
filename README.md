@@ -68,5 +68,5 @@ Should you have any questions about this repo or the deployed page, contact any 
 
 - Kristine Horton - [kristinehrtn@yahoo.com](mailto:kristinehrtn@yahoo.com)
 - April Yang - [aprilyanggarwood@gmail.com](mailto:aprilyanggarwood@gmail.com) 
-- Christina Engelhardt - [cjengelhardt@gmail.com](mailto:cjengelhardt@gmail.com)
+- Zii Engelhardt - [cjengelhardt@gmail.com](mailto:cjengelhardt@gmail.com)
 - Girma Ebssa - [girma.derib@gmail.com](mailto:girma.derib@gmail.com)
