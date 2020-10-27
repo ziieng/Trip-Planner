@@ -1,7 +1,6 @@
-<!-- Flag icons sourced from : https://www.countryflags.com/en/ -->
 # Trip Planner
-* View the [Github Repo](https://github.com/girmaD/Trip-Planner/tree/main)
-* View the [Deployed Application](https://girmad.github.io/Trip-Planner/)
+* View the [Github Repo](https://github.com/ziieng/Trip-Planner)
+* View the [Deployed Application](https://ziieng.github.io/Trip-Planner/)
 * View the [Presentation Slides](https://docs.google.com/presentation/d/14yzWKX24n7O9447GKuaL9KPIT-f9MpDyD-6vGLKPp38/edit#slide=id.g29f43f0a72_0_0)
 
 ## Table Of Contents
