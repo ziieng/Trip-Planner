@@ -1,18 +1,19 @@
 /* site-wide brand formatting */
 #navbar {
-   height: 110px;
-   padding-top: 20px;
-   font-size: 2em;
-   background-image: url("../images/navbarbackground.jpg");
-
+  height: 110px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 2em;
+  background-image: url("../images/navbarbackground.jpg");
 }
 
 .titleHeader {
-text-align: center;
-font-size: 4rem;
-color: rgb(68, 133, 187); 
-font-family: 'Berkshire Swash',
-cursive;
+  align-self: center;
+  text-align: center;
+  font-size: 4rem;
+  color: rgb(68, 133, 187);
+  font-family: 'Berkshire Swash',
+    cursive;
 }
 
 .mainSectionHeader {
@@ -50,7 +51,7 @@ body {
 
 #main-section {
   margin: 0 auto;
-  width: 50%; 
+  width: 50%;
   background-color: #fcf2cf;
 }
 
@@ -67,16 +68,16 @@ body {
 }
 
 #submit-button {
-background-color:#abb2b9;
-color: #660066;
-background-size: auto;
-font-size: 1.2rem;
-font-family: 'Arima Madurai',
-cursive;
+  background-color: #abb2b9;
+  color: #660066;
+  background-size: auto;
+  font-size: 1.2rem;
+  font-family: 'Arima Madurai',
+    cursive;
 }
 
 .daily-activity {
-background-color: #fcf2cf;
+  background-color: #fcf2cf;
   width: 40rem;
 }
 
@@ -127,62 +128,62 @@ ul {
 }
 
 .buttonContent {
-padding: 10px 20px;
-background-color: #fcf2cf;
+  padding: 10px 20px;
+  background-color: #fcf2cf;
 }
 
 .buttonContent .act-btn {
-  background-color:#abb2b9;
+  background-color: #abb2b9;
   color: #660066;
   background-size: auto;
   font-size: 0.9rem;
   font-family: 'Arima Madurai',
-  cursive;
+    cursive;
 }
 
 .buttonContent .rest-btn {
-  background-color:#abb2b9;
+  background-color: #abb2b9;
   color: #660066;
   background-size: auto;
- font-size: 0.9rem;
- font-family: 'Arima Madurai',
- cursive;
- }
-
- .buttonContent .rest-add {
-   background-color: #abb2b9;
-   color: #660066;
-   background-size: auto;
-   font-size: 1rem;
-   font-family: 'Arima Madurai',
-     cursive;
- }
-
- .buttonContent .act-add {
-   background-color: #abb2b9;
-   color: #660066;
-   background-size: auto;
-   font-size: 0.9rem;
+  font-size: 0.9rem;
   font-family: 'Arima Madurai',
-  cursive;
+    cursive;
 }
 
-.activityContent{
-padding:20px 30px;
-background-color: #fef9e7;
+.buttonContent .rest-add {
+  background-color: #abb2b9;
+  color: #660066;
+  background-size: auto;
+  font-size: 1rem;
+  font-family: 'Arima Madurai',
+    cursive;
+}
+
+.buttonContent .act-add {
+  background-color: #abb2b9;
+  color: #660066;
+  background-size: auto;
+  font-size: 0.9rem;
+  font-family: 'Arima Madurai',
+    cursive;
+}
+
+.activityContent {
+  padding: 20px 30px;
+  background-color: #fef9e7;
 }
 
 .ARheader {
-font-family: 'Arima Madurai',
-cursive;
-color: #000066;
+  font-family: 'Berkshire Swash',
+  cursive;
+  color: #000066;
 }
 
 .dayHeaderContent .weatherIcon {
-background-color: #aed6f1 ;
-border-radius: 10px;
+  background-color: #aed6f1;
+  border-radius: 10px;
 }
 
-#dragonIcon { 
+#dragonIcon {
   float: left;
 }
