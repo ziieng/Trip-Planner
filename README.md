@@ -1,7 +1,6 @@
-<!-- Flag icons sourced from : https://www.countryflags.com/en/ -->
 # Trip Planner
-* View the [Github Repo](https://github.com/girmaD/Trip-Planner/tree/main)
-* View the [Deployed Application](https://girmad.github.io/Trip-Planner/)
+* View the [Github Repo](https://github.com/ziieng/Trip-Planner)
+* View the [Deployed Application](https://ziieng.github.io/Trip-Planner/)
 * View the [Presentation Slides](https://docs.google.com/presentation/d/14yzWKX24n7O9447GKuaL9KPIT-f9MpDyD-6vGLKPp38/edit#slide=id.g29f43f0a72_0_0)
 
 ## Table Of Contents
@@ -66,7 +65,7 @@ Happy Trip!
 
 Should you have any questions about this repo or the deployed page, contact any of us
 
+- Girma Ebssa - [girma.derib@gmail.com](mailto:girma.derib@gmail.com) 
+- Zii Engelhardt - [cjengelhardt@gmail.com](mailto:cjengelhardt@gmail.com)
 - Kristine Horton - [kristinehrtn@yahoo.com](mailto:kristinehrtn@yahoo.com)
-- April Yang - [aprilyanggarwood@gmail.com](mailto:aprilyanggarwood@gmail.com) 
-- Christina Engelhardt - [cjengelhardt@gmail.com](mailto:cjengelhardt@gmail.com)
-- Girma Ebssa - [girma.derib@gmail.com](mailto:girma.derib@gmail.com)
+- April Yang - [aprilyanggarwood@gmail.com](mailto:aprilyanggarwood@gmail.com)
